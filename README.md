@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Donny%20 Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
+
 <div align="center">
   - 👋 Hi, I’m @printFrontend
   - 👀 I’m interested in ...
