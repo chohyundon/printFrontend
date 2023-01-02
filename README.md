@@ -3,8 +3,8 @@
 
 <div align="center">
   ### Introduce🙌
-  - 저는 프론트엔드 개발자가 되기 위해 열심히 공부하고 있는 조현돈이라고 합니다.
-  - 현재 대학생이며 열심히 뭐든지 열심히 임하는 태도로 공부하고 있습니다
+  -<h2> 저는 프론트엔드 개발자가 되기 위해 열심히 공부하고 있는 조현돈이라고 합니다.</br>
+  - 현재 대학생이며 열심히 뭐든지 열심히 임하는 태도로 공부하고 있습니다</h2>
   
   - 👋 Hi, I’m @printFrontend</br>
   - 🌱 I’m currently learning ...HTML, CSS, JavaScript
