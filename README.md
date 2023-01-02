@@ -5,6 +5,8 @@
   - 💞️ I’m looking to collaborate on ...
   - 📫 How to reach me ...
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Donny Github&fontSize=50" />
+
   <h3 align="center"><b>📚 Languages 📚</b></h3>
   </br>
   <p align="center">
