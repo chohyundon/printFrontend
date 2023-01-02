@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/javascirpt-yellow?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
   <p>
   
+   ### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
+  
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=printFrontend&show_icons=true&theme=tokyonight)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printFrontend&layout=compact&theme=tokyonight)
