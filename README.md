@@ -18,8 +18,8 @@
   <p>
   
    <h1> Tools </h1>
-  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
-  <img src="https://img.shields.io/badge/Visual Studio-blue?style=flat&logo=Visual Studio&logoColor=#C2D91"/>
+  <img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Visual Studio-blue?style=flat&logo=Visual Studio&logoColor=C2D91"/>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=printFrontend&show_icons=true&theme=tokyonight)
 
