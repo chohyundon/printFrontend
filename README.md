@@ -16,7 +16,7 @@
   
    ### Tools
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat=Visual%20Studio%20Code&logoColor=white)
+  <img src="https://img.shields.io/badge/Visual Studio-blue?style=flat&logo=Visual Studio&logoColor=#C2D91"/>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=printFrontend&show_icons=true&theme=tokyonight)
 
