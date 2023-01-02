@@ -1,8 +1,8 @@
+  # JO HYUN DON😉
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Donny%20Github&fontSize=50" />
 
 <div align="center">
-  # JO HYUN DON😉
-  - 👋 Hi, I’m @printFrontend
+  - 👋 Hi, I’m @printFrontend</br>
   - 🌱 I’m currently learning ...HTML, CSS, JavaScript
 
 
