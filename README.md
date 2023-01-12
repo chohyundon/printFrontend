@@ -21,7 +21,3 @@
   <img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Visual Studio-blue?style=flat&logo=Visual Studio&logoColor=C2D91"/>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=printFrontend&show_icons=true&theme=tokyonight)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printFrontend&layout=compact&theme=tokyonight)
-</div>
