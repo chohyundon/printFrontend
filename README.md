@@ -21,3 +21,4 @@
   <img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Visual Studio-blue?style=flat&logo=Visual Studio&logoColor=C2D91"/>
   
+  ![gse06044@naver.com's github stats](https://github-readme-stats.vercel.app/api?username=gse06044@naver.com&show_icons=true)
